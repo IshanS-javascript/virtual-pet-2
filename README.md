@@ -1,2 +1,1 @@
-# virtual-pet-2
-A BETA VERSION OF THE PREVIOS APP AS VIRTUAL PET -  2
+# Project-34
